@@ -12,4 +12,4 @@ Before installing the programme , you need to run the following commands in cmd 
 - Once you click on `Convert Url` , a png image of the QR Code should be generated in the directory in which you are running the file.
 
 ## Screenshot
-[QrTk Screenshot](<img src = "https://github.com/jusspatel/QrTk/blob/main/Screenshot%20(371).png">)
+![QrTk Screenshot](https://github.com/jusspatel/QrTk/blob/main/Screenshot%20(371).png)
