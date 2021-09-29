@@ -11,4 +11,5 @@ Before installing the programme , you need to run the following commands in cmd 
 - Download it as a .zip file , extract all the contents and run the file named `qrTk.py`
 - Once you click on `Convert Url` , a png image of the QR Code should be generated in the directory in which you are running the file.
 
-## Screenshots
+## Screenshot
+[QrTk Screenshot](<img src = "https://github.com/jusspatel/QrTk/blob/main/Screenshot%20(371).png">)
